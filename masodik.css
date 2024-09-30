@@ -2,22 +2,18 @@ div {
     width: 100%;
     height: 300px;
 }
-
-div:first-of-type {
+#tarolo2 {
     display: flex;
 }
-
-#zold {
+#zold2 {
     background-color: green;
     flex: 1;
 }
-
-#sarga {
+#sarga2 {
     background-color: yellow;
     flex: 2;
 }
-
-#lila {
+#lila2 {
     background-color: purple;
     flex: 1;
 }
